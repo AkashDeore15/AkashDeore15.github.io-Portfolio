@@ -25,6 +25,21 @@
       ]
     },
     {
+      "title": "Graduate Teaching Assistant",
+      "company": "New Jersey Institute of Technology",
+      "logo": "assets/images/logos/njit.svg",
+      "period": "Jan 2025 to May 2026",
+      "location": "",
+      "description": "Facilitated technical troubleshooting for networking concepts including TCP/IP, DNS, and protocol analysis, delivering hands on guidance to improve student comprehension.",
+      "responsibilities": [
+        "Facilitated technical troubleshooting for networking concepts including TCP/IP, DNS, and protocol analysis, delivering hands on guidance to improve student comprehension"
+      ],
+      "technologies": [
+        "TCP/IP",
+        "DNS"
+      ]
+    },
+    {
       "title": "Security Delivery Analyst",
       "company": "Accenture",
       "logo": "assets/images/logos/accenture.svg",
@@ -74,21 +89,6 @@
         "Azure DevOps",
         "GitHub Actions",
         "Docker"
-      ]
-    },
-    {
-      "title": "Graduate Teaching Assistant",
-      "company": "New Jersey Institute of Technology",
-      "logo": "assets/images/logos/njit.svg",
-      "period": "Jan 2025 to Dec 2025",
-      "location": "",
-      "description": "Facilitated technical troubleshooting for networking concepts including TCP/IP, DNS, and protocol analysis, delivering hands on guidance to improve student comprehension.",
-      "responsibilities": [
-        "Facilitated technical troubleshooting for networking concepts including TCP/IP, DNS, and protocol analysis, delivering hands on guidance to improve student comprehension"
-      ],
-      "technologies": [
-        "TCP/IP",
-        "DNS"
       ]
     }
   ]
