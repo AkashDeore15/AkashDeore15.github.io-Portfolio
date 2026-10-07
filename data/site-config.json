@@ -1,20 +1,20 @@
 {
-  "title": "Akash Deore | Cloud Security & Platform Engineer",
-  "description": "Cloud Security Engineer with 3+ years of experience in enterprise security delivery, identity and access management (IAM), and cloud infrastructure automation. Expertise in designing secure cloud a...",
-  "keywords": "Akash Deore, Cloud Security & Platform Engineer, Portfolio, Python, Java, PowerShell, Bash, JavaScript, TypeScript, FastAPI, AWS",
+  "title": "Akash Deore | Cloud Security and IAM Engineer",
+  "description": "Akash Deore is a Cloud Security and IAM Engineer in New Jersey. Saviynt IGA, CyberArk, Entra ID, AWS and Azure security, and PowerShell/Python automation. MS Computer Science, NJIT.",
+  "keywords": "Akash Deore, Cloud Security Engineer, IAM Engineer, Identity and Access Management, Saviynt, CyberArk, Entra ID, AWS, Azure, PowerShell, Python",
   "author": "Akash Deore",
   "siteName": "Akash Deore",
-  "siteTitle": "Akash Deore | Cloud Security & Platform Engineer",
+  "siteTitle": "Akash Deore | Cloud Security and IAM Engineer",
   "meta": {
-    "title": "Akash Deore | Cloud Security & Platform Engineer",
-    "description": "Cloud Security Engineer with 3+ years of experience in enterprise security delivery, identity and access management (IAM), and cloud infrastructure automation. Expertise in designing secure cloud a...",
+    "title": "Akash Deore | Cloud Security and IAM Engineer",
+    "description": "Akash Deore is a Cloud Security and IAM Engineer in New Jersey. Saviynt IGA, CyberArk, Entra ID, AWS and Azure security, and PowerShell/Python automation. MS Computer Science, NJIT.",
     "author": "Akash Deore",
-    "keywords": "Akash Deore, Cloud Security & Platform Engineer, Portfolio, Python, Java, PowerShell, Bash, JavaScript, TypeScript, FastAPI, AWS"
+    "keywords": "Akash Deore, Cloud Security Engineer, IAM Engineer, Identity and Access Management, Saviynt, CyberArk, Entra ID, AWS, Azure, PowerShell, Python"
   },
   "branding": {
     "name": "Akash Deore",
-    "tagline": "Cloud Security & Platform Engineer",
-    "logo": "/logo.png"
+    "tagline": "Cloud Security and IAM Engineer",
+    "logo": "/logo-mark.svg"
   },
   "settings": {
     "year": 2026,

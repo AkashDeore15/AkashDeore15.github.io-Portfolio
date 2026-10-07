@@ -1,38 +1,38 @@
 {
-  "greeting": "Portfolio",
+  "greeting": "Hi, I'm",
   "name": "Akash Deore",
-  "title": "Cloud Security & Platform Engineer",
-  "summary": "Cloud Security Engineer with 3+ years of experience in enterprise security delivery, identity and access management (IAM), and cloud infrastructure automation. Expertise in designing secure cloud architectures aligned with NIST frameworks and CIS Benchmarks, implementing RBAC/ABAC access controls, and automating compliance workflows using Infrastructure as Code (IaC). PowerShell, and Java with hands on experience across AWS and Azure cloud platforms, containerized deployments, and enterprise observability tools.",
+  "title": "Cloud Security and IAM Engineer",
+  "summary": "Cloud Security and IAM Engineer with 4+ years of experience in enterprise security delivery, identity and access management, and cloud infrastructure automation. I design access controls (RBAC/ABAC, SSO with SAML, OIDC and OAuth 2.0), automate identity governance and compliance checks, and secure AWS and Azure environments against NIST and CIS Benchmarks. Hands on with Python, PowerShell and Java, containerized deployments, and enterprise observability tools.",
   "avatarUrl": "assets/images/portrait.jpg",
-  "tagline": "Python / Java / PowerShell / Bash / JavaScript",
+  "tagline": "I find the root cause and automate it away.",
   "highlights": [
     {
       "icon": "fas fa-briefcase",
-      "text": "3+ Years Experience",
+      "text": "4+ Years Experience",
       "color": "#FF6B6B"
     },
     {
-      "icon": "fas fa-project-diagram",
-      "text": "2 Projects Delivered",
+      "icon": "fas fa-id-badge",
+      "text": "Entra ID, Saviynt, CyberArk",
       "color": "#4ECDC4"
     },
     {
-      "icon": "fas fa-code",
-      "text": "Python, Java, PowerShell",
+      "icon": "fas fa-graduation-cap",
+      "text": "MS Computer Science, NJIT",
       "color": "#FFE66D"
     }
   ],
   "cta": {
     "buttons": [
       {
-        "text": "Contact Me",
+        "text": "Contact me",
         "href": "#contact",
         "type": "primary",
         "external": false,
         "icon": "fas fa-envelope"
       },
       {
-        "text": "Explore Projects",
+        "text": "View projects",
         "href": "#projects",
         "type": "secondary",
         "external": false,
@@ -60,5 +60,9 @@
   "scrollIndicator": {
     "text": "Scroll to explore",
     "icon": "fas fa-chevron-down"
+  },
+  "proof": {
+    "kicker": "Engineering Focus",
+    "text": "Scalable systems, clean architecture, measurable results"
   }
 }

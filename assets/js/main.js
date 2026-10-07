@@ -84,8 +84,9 @@ async function loadNavigation() {
         // Set brand name
         const brandElement = document.getElementById('nav-brand');
         if (brandElement) {
-            brandElement.textContent = data.brand.name;
+            brandElement.innerHTML = `${data.brand.logo ? `<img src="${data.brand.logo}" alt="" width="32" height="32" class="nav-logo">` : ''}<span>${data.brand.name}</span>`;
             brandElement.href = data.brand.href;
+            brandElement.setAttribute('aria-label', `${data.brand.name}, home`);
         }
 
         // Build navigation menu
@@ -214,7 +215,7 @@ async function loadAbout() {
         const actionsContainer = document.getElementById('about-actions');
         if (actionsContainer && data.downloadCV) {
             actionsContainer.innerHTML = `
-                <a href="${data.downloadCV.href}" download class="btn btn-primary">
+                <a href="${data.downloadCV.href}" ${data.downloadCV.href.startsWith('mailto:') ? '' : 'download'} class="btn btn-primary">
                     <i class="${data.downloadCV.icon}"></i>
                     ${data.downloadCV.text}
                 </a>

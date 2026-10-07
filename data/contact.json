@@ -25,6 +25,14 @@
       "href": "https://maps.google.com/?q=Newark%2C%20NJ",
       "icon": "fas fa-map-marker-alt",
       "color": "#FFE66D"
+    },
+    {
+      "type": "relocation",
+      "label": "Availability",
+      "value": "Open to relocation in the US",
+      "href": "https://www.linkedin.com/in/akash-deore",
+      "icon": "fas fa-plane",
+      "color": "#A8DADC"
     }
   ],
   "form": {

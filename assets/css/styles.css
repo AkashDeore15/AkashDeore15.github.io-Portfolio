@@ -240,6 +240,19 @@ textarea:focus-visible {
     transition: all var(--transition-fast);
 }
 
+.nav-brand {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+}
+
+.nav-logo {
+    width: 32px;
+    height: 32px;
+    border-radius: 8px;
+    flex-shrink: 0;
+}
+
 .nav-brand:hover {
     filter: brightness(1.2);
 }
@@ -653,8 +666,7 @@ textarea:focus-visible {
 }
 
 .about-text::before {
-    content: 'Healthcare analytics, reporting automation, KPI design, and stakeholder-ready insights.';
-    display: block;
+    content: 'Identity governance, privileged access, and cloud security automation.';
     padding: var(--spacing-md);
     border-left: 3px solid var(--color-accent-2);
     background: rgba(255, 255, 255, 0.04);

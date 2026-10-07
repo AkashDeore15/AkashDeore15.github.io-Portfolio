@@ -1,7 +1,8 @@
 {
   "brand": {
     "name": "Akash Deore",
-    "href": "#hero"
+    "href": "#hero",
+    "logo": "logo-mark-solid.svg"
   },
   "menuItems": [
     {

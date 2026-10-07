@@ -3,20 +3,20 @@
   "subtitle": "A closer look at my background, how I work, and the results I deliver.",
   "image": "",
   "paragraphs": [
-    "Cloud Security Engineer with 3+ years of experience in enterprise security delivery, identity and access management (IAM), and cloud infrastructure automation. Expertise in designing secure cloud architectures aligned with NIST frameworks and CIS Benchmarks, implementing RBAC/ABAC access controls, and automating compliance workflows using Infrastructure as Code (IaC).",
-    "PowerShell, and Java with hands on experience across AWS and Azure cloud platforms, containerized deployments, and enterprise observability tools."
+    "Cloud Security and IAM Engineer with 4+ years of experience in enterprise security delivery, identity and access management, and cloud infrastructure automation. At Accenture I automated access provisioning and identity governance with Entra ID and PowerShell, and implemented RBAC/ABAC and SSO across cloud environments.",
+    "Today I work at an MSP, automating endpoint security and operations work across SentinelOne, Sophos, Huntress and NinjaOne. I hold an MS in Computer Science from NJIT with a focus on cloud security, cryptography and AI. I am open to relocating anywhere in the US."
   ],
   "statistics": [
     {
       "icon": "fas fa-briefcase",
-      "value": "3+",
+      "value": "4+",
       "label": "Years Experience",
       "color": "#FF6B6B"
     },
     {
-      "icon": "fas fa-project-diagram",
-      "value": "2",
-      "label": "Projects",
+      "icon": "fas fa-shield-alt",
+      "value": "65%",
+      "label": "Fewer Identity Incidents",
       "color": "#4ECDC4"
     },
     {
@@ -33,7 +33,7 @@
     }
   ],
   "downloadCV": {
-    "text": "Get In Touch",
+    "text": "Contact me",
     "href": "mailto:akashdeore1999@gmail.com",
     "icon": "fas fa-envelope"
   }

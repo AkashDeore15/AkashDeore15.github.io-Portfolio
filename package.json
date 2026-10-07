@@ -1,0 +1,11 @@
+{
+  "name": "akashdeore-portfolio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/prerender.mjs"
+  },
+  "devDependencies": {
+    "jsdom": "^25.0.1"
+  }
+}

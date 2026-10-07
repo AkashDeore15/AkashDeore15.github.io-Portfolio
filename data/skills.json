@@ -3,6 +3,23 @@
   "subtitle": "A focused toolkit built through hands-on, real-world work.",
   "categories": [
     {
+      "category": "Identity and Access Management",
+      "icon": "fas fa-id-badge",
+      "color": "#F2A93B",
+      "skills": [
+        "Saviynt IGA",
+        "CyberArk",
+        "Microsoft Entra ID",
+        "Active Directory",
+        "SAML",
+        "OIDC",
+        "OAuth 2.0",
+        "RBAC/ABAC",
+        "Conditional Access",
+        "MFA"
+      ]
+    },
+    {
       "category": "Programming Languages",
       "icon": "fas fa-code",
       "color": "#FF6B6B",
@@ -13,6 +30,17 @@
         "Bash",
         "JavaScript",
         "TypeScript"
+      ]
+    },
+    {
+      "category": "Endpoint Security and RMM",
+      "icon": "fas fa-shield-alt",
+      "color": "#7FB7BE",
+      "skills": [
+        "SentinelOne",
+        "Sophos",
+        "Huntress",
+        "NinjaOne"
       ]
     },
     {

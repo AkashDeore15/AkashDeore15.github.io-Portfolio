@@ -9,7 +9,7 @@
       "institution": "New Jersey Institute of Technology",
       "period": "May 2026",
       "details": "",
-      "description": "",
+      "description": "Specialization in Cloud Security, Cryptography and AI.",
       "icon": "fas fa-graduation-cap",
       "color": "#2FC4B2"
     },
@@ -26,18 +26,32 @@
   ],
   "certifications": [
     {
-      "title": "Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC 900)",
+      "title": "Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)",
       "issuer": "Microsoft",
       "date": "",
       "icon": "fas fa-certificate",
       "color": "#FF6B6B"
     },
     {
-      "title": "AWS Certified: Cloud Practitioner and Solutions Architect Associate (In Progress)",
+      "title": "AWS Certified Cloud Practitioner",
       "issuer": "AWS",
       "date": "",
       "icon": "fas fa-certificate",
       "color": "#4ECDC4"
+    },
+    {
+      "title": "Saviynt IGA Level 100 and Level 200",
+      "issuer": "Saviynt",
+      "date": "",
+      "icon": "fas fa-certificate",
+      "color": "#F2A93B"
+    },
+    {
+      "title": "AWS Certified Solutions Architect Associate",
+      "issuer": "AWS",
+      "date": "In progress",
+      "icon": "fas fa-hourglass-half",
+      "color": "#A8DADC"
     }
   ]
 }

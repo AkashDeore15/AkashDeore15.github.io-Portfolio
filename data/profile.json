@@ -1,8 +1,8 @@
 {
   "profile": {
     "name": "Akash Deore",
-    "title": "Cloud Security & Platform Engineer",
-    "bio": "Cloud Security Engineer with 3+ years of experience in enterprise security delivery, identity and access management (IAM), and cloud infrastructure automation. Expertise in designing secure cloud architectures aligned with NIST frameworks and CIS Benchmarks, implementing RBAC/ABAC access controls, and automating compliance workflows using Infrastructure as Code (IaC). PowerShell, and Java with hands on experience across AWS and Azure cloud platforms, containerized deployments, and enterprise observability tools."
+    "title": "Cloud Security and IAM Engineer",
+    "bio": "Cloud Security and IAM Engineer with 4+ years of experience in enterprise security delivery, identity and access management, and cloud infrastructure automation. I design access controls (RBAC/ABAC, SSO with SAML, OIDC and OAuth 2.0), automate identity governance and compliance checks, and secure AWS and Azure environments against NIST and CIS Benchmarks. Hands on with Python, PowerShell and Java, containerized deployments, and enterprise observability tools."
   },
   "contact": {
     "email": "akashdeore1999@gmail.com",
@@ -11,8 +11,8 @@
     "linkedin": "https://www.linkedin.com/in/akash-deore"
   },
   "siteConfig": {
-    "domain": "",
-    "title": "Akash Deore - Portfolio",
-    "description": "Cloud Security Engineer with 3+ years of experience in enterprise security delivery, identity and access management (IAM), and cloud infrastructure automation. Expertise in designing secure cloud architectures aligned with NIST frameworks and CIS Benchmarks, implementing RBAC/ABAC access controls, and automating compliance workflows using Infrastructure as Code (IaC). PowerShell, and Java with hands on experience across AWS and Azure cloud platforms, containerized deployments, and enterprise observability tools."
+    "domain": "akashdeore.com",
+    "title": "Akash Deore | Cloud Security and IAM Engineer",
+    "description": "Akash Deore is a Cloud Security and IAM Engineer in New Jersey. Saviynt IGA, CyberArk, Entra ID, AWS and Azure security, and PowerShell/Python automation. MS Computer Science, NJIT."
   }
 }

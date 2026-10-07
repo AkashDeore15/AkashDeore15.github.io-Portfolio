@@ -7,21 +7,26 @@
       "company": "JM Technical Services Inc.",
       "logo": "assets/images/logos/jm-technical.png",
       "period": "Jan 2026 to Present",
-      "location": "",
-      "description": "Provisioned and configured scalable cloud infrastructure using Infrastructure as Code (IaC) principles, reducing deployment lead time by 20% and enforcing security baselines for standardized account provisioning.\nImplemented automated compliance validation and security policy enforcement across cloud environments, ensuring alignment with NIST frameworks and CIS Benchmarks.\nEngineered Disaster Recovery (DR) strategies for system migrations, ensuring 99.9% data integrity and supporting business continuity for critical enterprise workflows.\nOptimized cloud and on-premise resources by leading technical evaluations, resulting in approximately $16K reduction in infrastructure costs while maintaining high availability.",
+      "location": "North Arlington, NJ",
+      "description": "Infrastructure, endpoint security and automation for MSP clients.",
       "responsibilities": [
         "Provisioned and configured scalable cloud infrastructure using Infrastructure as Code (IaC) principles, reducing deployment lead time by 20% and enforcing security baselines for standardized account provisioning",
         "Implemented automated compliance validation and security policy enforcement across cloud environments, ensuring alignment with NIST frameworks and CIS Benchmarks",
-        "Engineered Disaster Recovery (DR) strategies for system migrations, ensuring 99",
-        "9% data integrity and supporting business continuity for critical enterprise workflows",
-        "Optimized cloud and on-premise resources by leading technical evaluations, resulting in approximately $16K reduction in infrastructure costs while maintaining high availability"
+        "Engineered Disaster Recovery (DR) strategies for system migrations, ensuring 99.9% data integrity and supporting business continuity for critical enterprise workflows",
+        "Optimized cloud and on-premise resources by leading technical evaluations, resulting in approximately $16K reduction in infrastructure costs while maintaining high availability",
+        "Automated endpoint security and operations tasks with PowerShell across SentinelOne, Sophos, Huntress and NinjaOne RMM"
       ],
       "technologies": [
         "Infrastructure as Code",
         "IaC",
         "NIST",
         "CIS Benchmarks",
-        "Disaster Recovery"
+        "Disaster Recovery",
+        "PowerShell",
+        "SentinelOne",
+        "Sophos",
+        "Huntress",
+        "NinjaOne"
       ]
     },
     {
@@ -29,8 +34,8 @@
       "company": "New Jersey Institute of Technology",
       "logo": "assets/images/logos/njit.svg",
       "period": "Jan 2025 to May 2026",
-      "location": "",
-      "description": "Facilitated technical troubleshooting for networking concepts including TCP/IP, DNS, and protocol analysis, delivering hands on guidance to improve student comprehension.",
+      "location": "Newark, NJ",
+      "description": "Teaching assistant for graduate networking coursework.",
       "responsibilities": [
         "Facilitated technical troubleshooting for networking concepts including TCP/IP, DNS, and protocol analysis, delivering hands on guidance to improve student comprehension"
       ],
@@ -44,12 +49,11 @@
       "company": "Accenture",
       "logo": "assets/images/logos/accenture.svg",
       "period": "Mar 2023 to Mar 2024",
-      "location": "",
-      "description": "Automated secure access provisioning and identity governance pipelines using Azure AD (Entra ID) and PowerShell, eliminating manual bottlenecks and reducing identity related incidents by 65%.\nImplemented RBAC/ABAC access control frameworks and SSO authentication flows (SAML/OIDC/OAuth 2.0), improving compliance audit scores by 35% and enforcing least privilege access across cloud environments.\nDesigned and deployed Python based APIs integrated with SIEM platforms to detect IAM anomalies, increasing threat detection capabilities by 40% and resolving security visibility gaps.\nCollaborated with cross functional teams and engineering stakeholders to align cloud security architectures with business objectives, achieving a 15% reduction in operational costs.",
+      "location": "Pune, India",
+      "description": "Identity governance, access control and IAM threat detection for enterprise clients.",
       "responsibilities": [
         "Automated secure access provisioning and identity governance pipelines using Azure AD (Entra ID) and PowerShell, eliminating manual bottlenecks and reducing identity related incidents by 65%",
-        "Implemented RBAC/ABAC access control frameworks and SSO authentication flows (SAML/OIDC/OAuth 2",
-        "0), improving compliance audit scores by 35% and enforcing least privilege access across cloud environments",
+        "Implemented RBAC/ABAC access control frameworks and SSO authentication flows (SAML/OIDC/OAuth 2.0), improving compliance audit scores by 35% and enforcing least privilege access across cloud environments",
         "Designed and deployed Python based APIs integrated with SIEM platforms to detect IAM anomalies, increasing threat detection capabilities by 40% and resolving security visibility gaps",
         "Collaborated with cross functional teams and engineering stakeholders to align cloud security architectures with business objectives, achieving a 15% reduction in operational costs"
       ],
@@ -73,8 +77,8 @@
       "company": "Accenture",
       "logo": "assets/images/logos/accenture.svg",
       "period": "Sep 2021 to Feb 2023",
-      "location": "",
-      "description": "Managed Azure AD (Entra ID) and Active Directory identity lifecycles, including configuring Conditional Access policies, MFA integration, and automated compliance checks, maintaining 100% uptime for identity workflows.\nBuilt CI/CD pipelines from scratch using Azure DevOps and GitHub Actions, integrating security controls for shift left validation and enhancing deployment reliability by 45%.\nOrchestrated containerized deployments using Docker and container orchestration tools, enhancing system reliability and decreasing release failures by 33%.",
+      "location": "Pune, India",
+      "description": "Identity lifecycle management, CI/CD and containerized deployments.",
       "responsibilities": [
         "Managed Azure AD (Entra ID) and Active Directory identity lifecycles, including configuring Conditional Access policies, MFA integration, and automated compliance checks, maintaining 100% uptime for identity workflows",
         "Built CI/CD pipelines from scratch using Azure DevOps and GitHub Actions, integrating security controls for shift left validation and enhancing deployment reliability by 45%",
