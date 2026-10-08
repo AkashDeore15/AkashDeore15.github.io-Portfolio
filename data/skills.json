@@ -52,8 +52,7 @@
         "FastAPI",
         "RestAPI",
         "Flask",
-        "Django",
-        
+        "Django"     
       ]
     },
     {
