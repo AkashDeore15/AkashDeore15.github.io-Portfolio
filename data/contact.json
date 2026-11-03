@@ -5,8 +5,8 @@
     {
       "type": "email",
       "label": "Email",
-      "value": "akashdeore1999@gmail.com",
-      "href": "mailto:akashdeore1999@gmail.com",
+      "value": "akashdeoreofficial@gmail.com",
+      "href": "mailto:akashdeoreofficial@gmail.com",
       "icon": "fas fa-envelope",
       "color": "#FF6B6B"
     },
@@ -91,7 +91,7 @@
     },
     {
       "platform": "Email",
-      "url": "mailto:akashdeore1999@gmail.com",
+      "url": "mailto:akashdeoreofficial@gmail.com",
       "icon": "fas fa-envelope"
     }
   ]
